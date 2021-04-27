@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721526189265",
+    "project_id": "epitech-calist",
+    "storage_bucket": "epitech-calist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721526189265:android:90a086504d998695a9a9f0",
+        "android_client_info": {
+          "package_name": "com.calist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721526189265-g6klduk5137kcukafva51o1pt76h7abm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calist",
+            "certificate_hash": "ef4520ee830d617a9c80d69a2a97f2d541bee6fd"
+          }
+        },
+        {
+          "client_id": "721526189265-lh44gfd6dsi1utjbq0k60hgc2sv8o93d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1RBkfu0oJECix7TBD6qPeMlKZ0lGTC1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721526189265-lh44gfd6dsi1utjbq0k60hgc2sv8o93d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
